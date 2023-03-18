@@ -22,11 +22,6 @@ Visualization Clip
 
 
 
-Data download link : https://pan.baidu.com/s/13n62SG07LceUgy1bpDybRA  
-Extraction code: 6666 
-
-
-
 ### Requirements
 
 - Windows10,  Python3(tested on 3.7.3)
